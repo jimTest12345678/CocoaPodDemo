@@ -1,2 +1,1 @@
-# CocoaPodDemo
-CocoaPodDemo
+# CCDemo

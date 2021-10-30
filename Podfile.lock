@@ -1,0 +1,22 @@
+PODS:
+  - SkinPeelerDemo (0.3.0)
+
+DEPENDENCIES:
+  - "SkinPeelerDemo (from `git@github.com:jimTest12345678/SkinPeelerDemoPublic.git`, tag `0.3.0`)"
+
+EXTERNAL SOURCES:
+  SkinPeelerDemo:
+    :git: "git@github.com:jimTest12345678/SkinPeelerDemoPublic.git"
+    :tag: 0.3.0
+
+CHECKOUT OPTIONS:
+  SkinPeelerDemo:
+    :git: "git@github.com:jimTest12345678/SkinPeelerDemoPublic.git"
+    :tag: 0.3.0
+
+SPEC CHECKSUMS:
+  SkinPeelerDemo: 58e8d373ea4f91e4f4b42cfcbe4213357d95ddcb
+
+PODFILE CHECKSUM: 3f5cdd0eb8db9c81fbd1e79e1a67de5696c962de
+
+COCOAPODS: 1.11.2
